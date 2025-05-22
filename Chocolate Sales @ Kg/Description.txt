@@ -1,0 +1,23 @@
+Sales Person
+Name of the salesperson responsible for the transaction.
+
+
+Country
+Sales region or store location where the transaction took place.
+
+
+Product
+Name of the chocolate product sold.
+
+
+Date
+The transaction date of the chocolate sale.
+
+
+Amount
+Total revenue generated from the sale.
+
+
+Boxes Shipped
+Number of chocolate boxes shipped in the order.
+
